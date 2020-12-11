@@ -1,0 +1,6 @@
+name: NeoAmong_Us
+version: ${project.version}
+main: neo2057.github.io.neoamong_us.NeoAmong_Us
+api-version: 1.16
+authors: [ Neo2057 ]
+description: among us pakuri
